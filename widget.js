@@ -54,7 +54,7 @@
     line-height: 16px;
     display: inline-block;
     white-space: nowrap;
-    direction: ltr;
+    direction: rlt;
     text-indent: 0;
     position: relative;
 }
